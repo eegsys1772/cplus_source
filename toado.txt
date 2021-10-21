@@ -1,0 +1,12 @@
+hue
+10
+10
+da nang
+20
+20
+ha noi
+40
+40
+tp hcm
+20
+50

@@ -1,0 +1,16 @@
+Nguyen Van A
+Hue
+2
+19
+Nguyen Van B
+Quang Nam
+15
+20
+Nguyen Van C
+Da Nang
+10
+16
+Tran Van D
+Ha Noi
+19
+25

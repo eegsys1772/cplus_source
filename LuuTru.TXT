@@ -1,0 +1,15 @@
+
+	----DANH SACH CAC HO GIA DINH CO CON 1 TU 1->18 Tuoi ----
+
+	Ho Gia Dinh THU 1
+
+Ten CHu Ho: Nguyen Van B
+Dia chi: Quang Nam
+Tuoi Con 1: 15
+Tuoi con 2: 20
+	Ho Gia Dinh THU 2
+
+Ten CHu Ho: Nguyen Van C
+Dia chi: HN
+Tuoi Con 1: 10
+Tuoi con 2: 16

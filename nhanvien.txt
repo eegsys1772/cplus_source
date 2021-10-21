@@ -1,0 +1,12 @@
+nv1
+nguyen van a
+ngan han
+4
+nv2
+nguyen van c
+bien che
+6
+nv3
+nguyen van b
+dai han
+5

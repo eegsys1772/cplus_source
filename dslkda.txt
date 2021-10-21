@@ -1,0 +1,32 @@
+CNTT
+Tang 3
+sv01
+Anh
+10
+sv02
+Binh
+2
+sv03
+Nga
+4
+
+TOAN
+Tang 2
+sv04
+Anh
+10
+sv05
+Binh
+2
+sv06
+Nga
+4
+sv07
+Thu
+6
+
+NN
+Tang 2
+sv08
+Anh
+10
